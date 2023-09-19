@@ -1,4 +1,4 @@
-# Spring-boot-3.1.3-with-swagger-and-basic-Auth
+# Spring-boot-3.1.3-with-OPEN API 3-and-basic-Auth
 This Is an spring boot 3.1.3 project and integrate swagger open api 3.1.0 with InMemory Basic Auth
 
 1 . Add Spring doc web mvc dependancy https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui
